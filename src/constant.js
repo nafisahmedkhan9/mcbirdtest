@@ -1,4 +1,4 @@
-export default {
+const CONST = {
     COOKIE_NAME: "mcbird",
     TOKEN_KEY: "mcbird_access_token",
 
@@ -6,3 +6,5 @@ export default {
     LOGIN_LINK: "/login",
     REGISTER_LINK: "/register"
 }
+
+export default CONST
